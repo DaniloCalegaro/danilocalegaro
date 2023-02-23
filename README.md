@@ -29,7 +29,7 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 Atualmente estou aprendendo React JS, Asp Net.Core, Entity Framework e SqlServer  
+- 🌱 I'm currently learning React JS, Asp Net.Core, Entity Framework e SqlServer  
   
 
 - ❓ Ask me about anything related to the aforementioned technologies  
