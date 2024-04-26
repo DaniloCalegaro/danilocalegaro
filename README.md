@@ -38,13 +38,6 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 - ⚡ Fun fact: I keep the day shift on at all times  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
@@ -75,18 +68,3 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="40" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="40" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaniloCalegaro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloCalegaro&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
